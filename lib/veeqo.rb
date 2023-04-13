@@ -1,6 +1,6 @@
 require 'hashie'
 require 'oj'
-require 'faraday_middleware'
+require 'faraday'
 require 'veeqo/version'
 require 'veeqo/config'
 require 'veeqo/connection'
